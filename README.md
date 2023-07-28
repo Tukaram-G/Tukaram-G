@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tukaram Gaikwad, completely new to tech world. 
+- 👀 I’m interested in learning all tools required for mastering Data Science and Machine Learning
+- 🌱 I have learnt basics of SQL, I’m currently learning Python
+- 💞️ I can work on simple tasks using Tableau, SQL, Python. I would like to get exposure to real world work in data science. 
+- 📫 Write to me at tukaram_g@yahoo.com
